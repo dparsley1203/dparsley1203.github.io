@@ -1860,6 +1860,7 @@ button.alt:active,
 ul {
     list-style: disc;
     padding-left: 1em;
+    display: inline-flex;
 }
 
 ul li {
