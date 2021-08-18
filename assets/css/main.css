@@ -2574,3 +2574,7 @@ body > article {
         margin-top: 0;
     }
 }
+
+#techstack {
+    display: inline-flex;
+}
